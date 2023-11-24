@@ -1,0 +1,18 @@
+{
+  "id": "nature-catalogue-lite-pwa-1",
+  "start_url": "./index.html",
+  "name": "Nature Catalogue Lite",
+  "short_name": "Nature",
+  "description": "Free Catalogue Restaurants for you",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#D84315",
+  "icons": [
+    {
+      "src": "/icons/coffee.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
